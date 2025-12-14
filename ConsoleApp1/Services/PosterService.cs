@@ -1,6 +1,6 @@
 namespace ConsoleApp1.Services
 {
-    class PosterService
+   public class PosterService
     {
     }
 }
