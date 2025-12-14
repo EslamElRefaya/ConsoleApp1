@@ -1,5 +1,9 @@
-using ConsoleApp1.Models;
+﻿using ConsoleApp1.Models;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Text;
 
 namespace ConsoleApp1
 {
